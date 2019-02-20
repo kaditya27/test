@@ -9,7 +9,7 @@ int main()
     int fall=0;
     int constant=0;
     n=7;
-    inp[30]=1010101;
+    inp[10]=1010101;
 
     for(i=1;i<n;i++)
     {
